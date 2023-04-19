@@ -2,7 +2,7 @@ import requests
 import json
 import tkinter as tk
 
-api_key = "4644c27759543eb889e6b103153efa28"
+api_key = "API KEY"
 city = "New York"
 
 url = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}"
